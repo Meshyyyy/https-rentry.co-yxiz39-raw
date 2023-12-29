@@ -1,0 +1,35 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://imgur.com/a/ACCsyAJ",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": Info,
+          "buttontext": "<RichColor Color="1,0,0,1">1 Server Stats</>",
+          "title1": "Welcome to Phoenix Fibercraft!",
+          "text1": "<RichColor Color="1,0,0,1">1 Server Stats</>/n/n/nTribe limit - 3/n/nTurret limit - 250/n/nTurret damage - 3x/n/nCave damage - 6x/n/nHarvest - 100x (Lower on some for server performance)/n/nBreeding 100x/n/nStacks 1,000-10,000k/n/n/n/PLAYER STATS/n/n/nHp - 50/n/nStam - 50/n/nWater - 200/n/nFood - 200/n/nOxy - 200/n/nWeight - 1,000,000/n/nFort - 20/n/nCrafting - 500/n/n/nTAME STATS/n/n/nMax Lvl - 150/n/nHp - 20% /n/nStam - 50%/n/nFood - 100%/n/nOxy - 100%/n/nWeight - 400000%/n/n/nDROPS/n/n/nWhite - Taming/n/nWhite Ring - Taming / Flak bps /n/nGreen - Kib/Skins/Soups/n/nGreen Ring - Boss/Kib/Soups/n/n/n/nBlue - Saddle Bps/n/nBlue Ring - Saddle Bps/n/nPurple - Structures/n/nPurple Ring - Structures/n/nYellow - Weapons / Ammo/n/nYellow Ring - Weapon Bps / Ammo/n/nRed - Ammo BP / Weapon BP / Saddle bp/n/nRed - Adv / Ele / Armor / ETC/n/nRed Ring - Ele / Armor / ETC/n/n/nTek unlocks at LVL 100/n/n/nPoints shop (F1)/n/n/nDLC tames with saddles/n/n/n15 points every 15 mins",
+          "imageurl": "https://imgur.com/a/ACCsyAJ"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord Link",
+          "url": "https://discord.gg/NTcj5bGSNq"
+        }
+      }
+    ]
+  }
+}
